@@ -20,6 +20,9 @@
 ## STEP 5
 OPEN LINK IN BROWSER
 
+## STEP 6 
+click VIEW SITE or open Root DIR TO VIEW STATISTICS
+
 # ADMIN DASHBOARD CREDENTIALS :
 
 Username : inotech
